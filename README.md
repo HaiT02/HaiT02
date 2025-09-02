@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m Hampus!
+
+I'm currently a **student** passionate about learning and exploring new technologies. While I'm just starting my journey on GitHub, I'm excited to discover, build, and share projects as I grow my skills.
+
+## 🚀 About Me
+- 🌱 Eager to learn and experiment with code
+- 📚 Open to exploring all kinds of programming languages and tools
+- 🏫 Always curious, always growing
+
+## 🗣️ Motto
+> "You miss all the shots you don't take"
+
+## 📈 Looking Ahead
+I'm here to learn, collaborate, and make the most out of every opportunity. Stay tuned for future projects and updates!
 
 <!--
-**HaiT02/HaiT02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+You can add more details here as you progress—such as favorite technologies, notable achievements, or links to your social profiles.
 -->
+
+---
+Feel free to connect or follow my journey!
